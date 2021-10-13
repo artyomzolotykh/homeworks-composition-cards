@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/homeworks-composition-cards/static/css/main.8501c08c.chunk.css",
+    "main.js": "/homeworks-composition-cards/static/js/main.a93435b3.chunk.js",
+    "main.js.map": "/homeworks-composition-cards/static/js/main.a93435b3.chunk.js.map",
+    "runtime-main.js": "/homeworks-composition-cards/static/js/runtime-main.b770aa74.js",
+    "runtime-main.js.map": "/homeworks-composition-cards/static/js/runtime-main.b770aa74.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/homeworks-composition-cards/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.1b541829.chunk.js": "/homeworks-composition-cards/static/js/2.1b541829.chunk.js",
+    "static/js/2.1b541829.chunk.js.map": "/homeworks-composition-cards/static/js/2.1b541829.chunk.js.map",
+    "static/js/3.080d9d79.chunk.js": "/homeworks-composition-cards/static/js/3.080d9d79.chunk.js",
+    "static/js/3.080d9d79.chunk.js.map": "/homeworks-composition-cards/static/js/3.080d9d79.chunk.js.map",
+    "index.html": "/homeworks-composition-cards/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/homeworks-composition-cards/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.8501c08c.chunk.css.map": "/homeworks-composition-cards/static/css/main.8501c08c.chunk.css.map",
+    "static/js/2.1b541829.chunk.js.LICENSE.txt": "/homeworks-composition-cards/static/js/2.1b541829.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b770aa74.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.1b541829.chunk.js",
+    "static/css/main.8501c08c.chunk.css",
+    "static/js/main.a93435b3.chunk.js"
+  ]
+}
